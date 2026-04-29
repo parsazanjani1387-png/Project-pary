@@ -1,6 +1,13 @@
+// این یک کامنت تک‌خطیه
+
+/*
+این
+چند خط
+کامنت است
+*/
 {
   "version": 2,
-  "name": "Parsa-vercel-xhttp-relay",
+  "name": "ocd",
   "rewrites": [
     { "source": "/(.*)", "destination": "/api/index" }
   ],
